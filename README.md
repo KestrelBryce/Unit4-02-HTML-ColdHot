@@ -1,0 +1,1 @@
+[![GitHub's Super Linter](https://github.com/KestrelBryce/Unit4-02-HTML-ColdHot/actions/workflows/main.yml/badge.svg)](https://github.com/KestrelBryce/Unit4-02-HTML-ColdHot/actions)
